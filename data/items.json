@@ -1,0 +1,74 @@
+{
+	"healthPack": {
+		"playerMod": {
+			"hp": 100
+		},
+		"useTime": 300,
+		"quantity": 1,
+		"canStack": true,
+		"symbol": "H",
+		"name": "healthPack"
+	},
+	"bandage": {
+		"playerMod": {
+			"regen": 5,
+			"regenTime": 2
+		},
+		"useTime": 60,
+		"quantity": 5,
+		"canStack": true,
+		"symbol": "B",
+		"name": "bandage"
+	},
+	"adrenaline": {
+		"playerMod": {
+			"regen": 0.05,
+			"regenTime": 500
+		},
+		"useTime": 35,
+		"quantity": 2,
+		"canStack": true,
+		"symbol": "A",
+		"name": "adrenaline"
+	},
+	"armor1": {
+		"playerMod": {
+			"bodyArmor": 0.9
+		},
+		"useTime": 0,
+		"quantity": 1,
+		"canStack": false,
+		"symbol": "A1",
+		"name": "LVL-1 Armor"
+	},
+	"armor2": {
+		"playerMod": {
+			"bodyArmor": 0.8
+		},
+		"useTime": 0,
+		"quantity": 1,
+		"canStack": false,
+		"symbol": "A2",
+		"name": "LVL-2 Armor"
+	},
+	"armor3": {
+		"playerMod": {
+			"bodyArmor": 0.7
+		},
+		"useTime": 0,
+		"quantity": 1,
+		"canStack": false,
+		"symbol": "A3",
+		"name": "LVL-3 Armor"
+	},
+	"Bullet_Proof_Vest": {
+		"playerMod": {
+			"bodyArmor": 0.3
+		},
+		"useTime": 0,
+		"quantity": 1,
+		"canStack": false,
+		"symbol": "BP",
+		"name": "Bullet Proof Vest"
+	}
+}
