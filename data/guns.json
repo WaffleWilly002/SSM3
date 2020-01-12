@@ -459,5 +459,43 @@
 		"symbol": "-",
 		"type": "auto",
 		"name": "jugGun"
+	},
+	"revolver":{
+		"bullet": {
+			"damage": 110,
+			"speed": 100,
+			"step": 1,
+			"lifeTime": 1400,
+			"explosive": false,
+			"fireTick": 0
+		},
+		"barrel": {
+			"len": 25,
+			"color": {
+				"r": 0,
+				"g": 0,
+				"b": 0
+			}
+		},
+		"playerMod": {
+			"scl": 1,
+			"speed": 2,
+			"drawLaser": false
+		},
+		"price": 0,
+		"fireRate": 120,
+		"reloadTime": 200,
+		"pellets": 0,
+		"canReload": true,
+		"hitsWalls": true,
+		"canSpawn": true,
+		"headshot": 0.05,
+		"magSize": 6,
+		"spread": 1,
+		"rarity": 0,
+		"symbol": "R",
+		"type": "semi",
+		"name": "revolver"
 	}
+
 }
