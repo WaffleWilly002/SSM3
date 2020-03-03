@@ -65,7 +65,7 @@
 		"playerMod": {
 			"bodyArmor": 0.3
 		},
-		"useTime": 0,
+		"useTime": 600,
 		"quantity": 1,
 		"canStack": false,
 		"symbol": "BP",
